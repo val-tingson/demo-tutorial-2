@@ -2,4 +2,4 @@
 
 # Init
 
-This is for git ini.
+This is for git init.
